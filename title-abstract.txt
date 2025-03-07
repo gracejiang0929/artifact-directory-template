@@ -1,5 +1,7 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Bias Detection and Mitigation in Ride Hailing
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+This study uncovers potential biases in New York City's ride-hailing pricing across socioeconomic and demographic groups. By analyzing NYC Taxi and Limousine Commission trip data alongside neighborhood demographics, we reveal how fare structures intersect with community characteristics. While geographic factors primarily drive usage patterns, our findings show economic vulnerability—especially in areas with high elderly poverty—correlates with stronger preferences for private over shared rides, highlighting how safety and convenience concerns shape transportation choices.
+Our machine learning investigation compares standard predictive pricing models against fairness-aware alternatives incorporating Equalized Odds constraints. Results demonstrate that conventional pricing algorithms produce measurable disparities in error rates across racial and socioeconomic groups, suggesting systemic bias. Fairness-aware adjustments successfully mitigate these disparities, though with a moderate accuracy trade-off.
+The research illuminates critical tensions between algorithmic performance and equitable outcomes, emphasizing the need for transparency in transportation technologies. We propose targeted infrastructure improvements and culturally responsive pricing strategies to address mobility gaps in underserved communities. This work demonstrates how integrating fairness constraints into transportation algorithms can advance both operational efficiency and social equity in urban mobility systems.
